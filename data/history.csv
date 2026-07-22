@@ -1,0 +1,4 @@
+timestamp,meal_type,foods_json,total_calories,total_protein,notes
+2026-07-05T08:47:03,Logged Meal,"[('Chicken Tikka', 100.0), ('Mutton (cooked)', 100.0), ('Egg (whole, boiled)', 200.0)]",794.0,77.2,
+2026-07-05T09:45:19,Logged Meal,"[('Chicken Tikka', 100.0), ('Mutton (cooked)', 100.0), ('Egg (whole, boiled)', 200.0)]",794.0,77.2,
+2026-07-05T14:44:15,Logged Meal,"[('Beef (lean, cooked)', 100.0), ('Egg (whole, boiled)', 200.0), ('Mutton (cooked)', 80.0)]",795.2,71.2,
