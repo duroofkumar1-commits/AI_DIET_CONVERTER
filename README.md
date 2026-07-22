@@ -182,5 +182,4 @@ than maximizing every line item from the original spec:
 - **Login/Signup**: omitted since all data is local and single-user (CSV
   files scoped to one profile) — there's no server to authenticate against.
 
-If you'd like any of these expanded (bigger dataset, SQLite version,
-multi-user login), let me know and I'll extend this build.
+
